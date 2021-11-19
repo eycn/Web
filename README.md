@@ -1,5 +1,5 @@
-# 所长导航
-# https://liutongxu.github.io/
+# 懒人导航
+# https://i.lra.cn/Web
 
 # 使用说明
 
@@ -12,6 +12,7 @@
 
 # BY：刘桐序
 
-所长导航liutongxu.github.io
+懒人导航
+https://i.lra.cn/Web
 
 支持请给个Star
